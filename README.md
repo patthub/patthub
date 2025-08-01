@@ -1,8 +1,6 @@
 # 👋 Hi there! I'm Patryk Hubar-Kołodziejczyk
 
 🎓 **PhD | Digital Humanities Specialist | Python Programmer**  
-📍 Based at the **Computations Lab**, Digital Humanities Center, Warsaw  
-🧠 Exploring the intersection of technology, language, and culture.
 
 ---
 
@@ -11,6 +9,7 @@
 I'm an information architect, python developer and researcher working at the crossroads of **natural language processing**, **semantic technologies**, and **digital humanities**. I specialize in building tools, pipelines, and semantic infrastructures that support data-driven humanities research.
 
 💼 I cooperate with:  
+- The **Computations Lab**, Digital Humanities Center, **Polish Academy of Science**, Warsaw  
 - The **Department of Informatology**, Faculty of Journalism, Information and Bibliology, **University of Warsaw**  
 - The **Institute of Applied Linguistics**, **University of Warsaw**
 
