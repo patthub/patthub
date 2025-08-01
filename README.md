@@ -41,6 +41,3 @@ I'm also passionate about open data, FAIR principles, and sustainable research s
 
 🛠️ Tools & Languages:
 - `Python` • `Pandas` • `SPARQL` • `RDFlib` • `FastAPI` • `Hugging Face` • `Linked Open Data` • `Transformers` • `AI Agents` • `Model Context Protocol`
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
