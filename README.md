@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi there! I'm Patryk Hubar-Kołodziejczyk
 
 🎓 **PhD | Digital Humanities Specialist | Python Programmer**  
