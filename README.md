@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Patryk Hubar-Kołodziejczyk
 
 🎓 **PhD | Digital Humanities Specialist | Python Programmer**  
-📍 Based at the **Computations lab at Digital Humanities Center**, Warsaw  
+📍 Based at the **Computations Lab**, Digital Humanities Center, Warsaw  
 🧠 Exploring the intersection of technology, language, and culture.
 
 ---
