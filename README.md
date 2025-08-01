@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Patryk Hubar-Kołodziejczyk
 
-🎓 **PhD | Digital Humanities Specialist | Python Programmer**  
+🎓 **PhD | Digital Humanities Specialist | Python Developer | Researcher**  
 
 ---
 
