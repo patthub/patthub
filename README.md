@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-I'm an information architect and researcher working at the crossroads of **natural language processing**, **semantic technologies**, and **digital humanities**. I specialize in building tools, pipelines, and semantic infrastructures that support data-driven humanities research.
+I'm an information architect, python developer and researcher working at the crossroads of **natural language processing**, **semantic technologies**, and **digital humanities**. I specialize in building tools, pipelines, and semantic infrastructures that support data-driven humanities research.
 
 💼 I cooperate with:  
 - The **Department of Informatology**, Faculty of Journalism, Information and Bibliology, **University of Warsaw**  
