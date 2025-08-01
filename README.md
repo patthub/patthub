@@ -13,7 +13,7 @@ I'm an information architect, python developer and researcher working at the cro
 - The **Department of Informatology**, Faculty of Journalism, Information and Bibliology, **University of Warsaw**  
 - The **Institute of Applied Linguistics**, **University of Warsaw**
 
-📊 I work with knowledge graphs, metadata, Python scripting, and multilingual NLP pipelines.  
+📊 I work with knowledge graphs, metadata, Python and ML/NLP technologies
 I'm also passionate about open data, FAIR principles, and sustainable research software development.
 
 ---
