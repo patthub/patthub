@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**patthub/patthub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm Patryk Hubar-Kołodziejczyk
 
-Here are some ideas to get you started:
+🎓 **PhD | Digital Humanities Specialist | Python Programmer**  
+📍 Based at the **Computations lab at Digital Humanities Center**, Warsaw  
+🧠 Exploring the intersection of technology, language, and culture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me
+
+I'm an information architect and researcher working at the crossroads of **natural language processing**, **semantic technologies**, and **digital humanities**. I specialize in building tools, pipelines, and semantic infrastructures that support data-driven humanities research.
+
+💼 I cooperate with:  
+- The **Department of Informatology**, Faculty of Journalism, Information and Bibliology, **University of Warsaw**  
+- The **Institute of Applied Linguistics**, **University of Warsaw**
+
+📊 I work with knowledge graphs, metadata, Python scripting, and multilingual NLP pipelines.  
+I'm also passionate about open data, FAIR principles, and sustainable research software development.
+
+---
+
+## 🧪 Projects
+
+🔬 At the **Digital Humanities Center (CHC IBL PAN)**, I'm involved in national and European infrastructure projects such as:
+
+- **DARIAH-PL** – _Digital Research Infrastructure for the Arts and Humanities_  
+- **SoFAIR** – _Making Software FAIR: A Machine-Assisted Workflow for the Research Software Lifecycle_
+- **GRAPHIA** – _Knowledge Graphs, AI Services and Next Generation Instrumentation for R&D in Social Sciences and Humanities_
+
+---
+
+## 💡 Interests & Tech
+
+🚀 Topics:
+- Machine Learning
+- Natural Language Processing
+- Semantic Web (RDF, SPARQL, OWL, SHACL)
+- Data engineering for humanities
+- Open Science & FAIR software practices
+- Knowledge graph construction and integration
+
+🛠️ Tools & Languages:
+- `Python` • `Pandas` • `SPARQL` • `RDFlib` • `FastAPI` • `Hugging Face` • `Linked Open Data` • `Transformers` • `AI Agents` • `Model Context Protocol`
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
